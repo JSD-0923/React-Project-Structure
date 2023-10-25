@@ -1,0 +1,9 @@
+/* Create card with borders and white background  */
+
+.demo-card {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 2em;
+  display: block;
+}
+
