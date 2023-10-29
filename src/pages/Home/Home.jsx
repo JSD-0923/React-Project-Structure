@@ -9,6 +9,7 @@ const handpickData = [
 ]
 
 const Home = () => {
+    // test
     return (
         <div className="home">
             <CompanyProjectContainer />
