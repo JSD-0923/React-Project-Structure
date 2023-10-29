@@ -9,7 +9,7 @@ const Details = () => {
 
     return (
         <div className="details">
-            <h1>Details page</h1>
+            <h1>Details pages</h1>
 
             <button onClick={handleBack}> Back </button>
        </div>
